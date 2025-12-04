@@ -15,11 +15,14 @@ header {
 .hero {
     position: relative;
     text-align: center;
+    padding: 10px 0;
 }
 
 .hero img {
-    width: 60px;
+    width: 120px;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .hero h2 {
